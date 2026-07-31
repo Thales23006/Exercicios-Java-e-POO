@@ -1,0 +1,1 @@
+Exercícios  que buscam trabalhar com lógica de programação  com java e a exploração dos quatro pilares principais da programação orientada a objetos: abstração, polimorfismo, encapsulamento  e herança.
